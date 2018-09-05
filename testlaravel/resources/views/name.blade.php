@@ -1,0 +1,1 @@
+<h3>xin chao <?php echo $name ?></h3>

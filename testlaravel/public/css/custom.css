@@ -1,0 +1,16 @@
+.image{
+    background:url("/img/hihi.jpg")no-repeat center fixed;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    width: 100%;
+    color:red;
+    margin-top: 150px;
+}
+.title{
+    color: #fff;
+}
+.avatar{
+    background:url("/img/hack.jpg")no-repeat center fixed;
+}
